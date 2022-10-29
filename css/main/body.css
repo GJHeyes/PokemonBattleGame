@@ -12,3 +12,15 @@ body{
     justify-content: space-between;
     height: 98vh;
 }
+
+body:hover{
+    background-color: rgb(118, 238, 13);
+    width: 1px;
+    height: 1px;
+}
+
+#main:hover{
+    background-color: rgb(203, 30, 171);
+    width: 1px;
+    height: 1px;
+}

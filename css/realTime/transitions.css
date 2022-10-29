@@ -1,5 +1,4 @@
 .is-flipped{
-    transform: rotateY(180deg);
     transition: transform 1s;
  }
 
